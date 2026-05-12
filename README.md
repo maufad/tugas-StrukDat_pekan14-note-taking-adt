@@ -1,0 +1,1 @@
+# tugas-StrukDat_pekan14-note-taking-adt
